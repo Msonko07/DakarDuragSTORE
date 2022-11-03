@@ -1,0 +1,12 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 12 23:53:14.688808 2022] [mpm_event:notice] [pid 20052:tid 140184440855488] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Sep 12 23:53:14.693271 2022] [core:notice] [pid 20052:tid 140184440855488] AH00094: Command line: '/home/mouhamedsonko/.config/Local/lightning-services/apache-2.4.43+7/bin/linux/bin/httpd -D FOREGROUND -f /home/mouhamedsonko/.config/Local/run/63vBLg8A0/conf/apache/apache2.conf'
+[Mon Sep 12 23:53:22.166255 2022] [mpm_event:notice] [pid 20052:tid 140184440855488] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 12 23:53:24.265672 2022] [mpm_event:notice] [pid 20227:tid 140386649369536] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Sep 12 23:53:24.265910 2022] [core:notice] [pid 20227:tid 140386649369536] AH00094: Command line: '/home/mouhamedsonko/.config/Local/lightning-services/apache-2.4.43+7/bin/linux/bin/httpd -D FOREGROUND -f /home/mouhamedsonko/.config/Local/run/63vBLg8A0/conf/apache/apache2.conf'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 14 10:52:33.237014 2022] [core:warn] [pid 4751:tid 139686917282752] AH00098: pid file /home/mouhamedsonko/.config/Local/run/63vBLg8A0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 14 10:52:33.278136 2022] [mpm_event:notice] [pid 4751:tid 139686917282752] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Sep 14 10:52:33.278220 2022] [core:notice] [pid 4751:tid 139686917282752] AH00094: Command line: '/home/mouhamedsonko/.config/Local/lightning-services/apache-2.4.43+7/bin/linux/bin/httpd -D FOREGROUND -f /home/mouhamedsonko/.config/Local/run/63vBLg8A0/conf/apache/apache2.conf'
+[Wed Sep 14 10:52:58.617278 2022] [mpm_event:notice] [pid 4751:tid 139686917282752] AH00491: caught SIGTERM, shutting down
